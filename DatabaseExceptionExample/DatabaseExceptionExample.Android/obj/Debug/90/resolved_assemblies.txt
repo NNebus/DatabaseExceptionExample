@@ -88,9 +88,9 @@ D:\Development\Apps\DatabaseExceptionExample\DatabaseExceptionExample\DatabaseEx
 D:\Development\Apps\DatabaseExceptionExample\DatabaseExceptionExample\DatabaseExceptionExample.Android\obj\Debug\90\android\assets\Microsoft.Extensions.Logging.dll
 D:\Development\Apps\DatabaseExceptionExample\DatabaseExceptionExample\DatabaseExceptionExample.Android\obj\Debug\90\android\assets\Microsoft.Extensions.Options.dll
 D:\Development\Apps\DatabaseExceptionExample\DatabaseExceptionExample\DatabaseExceptionExample.Android\obj\Debug\90\android\assets\Microsoft.Extensions.Caching.Memory.dll
+D:\Development\Apps\DatabaseExceptionExample\DatabaseExceptionExample\DatabaseExceptionExample.Android\obj\Debug\90\android\assets\Microsoft.EntityFrameworkCore.Sqlite.dll
 D:\Development\Apps\DatabaseExceptionExample\DatabaseExceptionExample\DatabaseExceptionExample.Android\obj\Debug\90\android\assets\Microsoft.EntityFrameworkCore.Relational.dll
 D:\Development\Apps\DatabaseExceptionExample\DatabaseExceptionExample\DatabaseExceptionExample.Android\obj\Debug\90\android\assets\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\Development\Apps\DatabaseExceptionExample\DatabaseExceptionExample\DatabaseExceptionExample.Android\obj\Debug\90\android\assets\Microsoft.EntityFrameworkCore.Sqlite.dll
 D:\Development\Apps\DatabaseExceptionExample\DatabaseExceptionExample\DatabaseExceptionExample.Android\obj\Debug\90\android\assets\Microsoft.DotNet.PlatformAbstractions.dll
 D:\Development\Apps\DatabaseExceptionExample\DatabaseExceptionExample\DatabaseExceptionExample.Android\obj\Debug\90\android\assets\System.Runtime.InteropServices.RuntimeInformation.dll
 D:\Development\Apps\DatabaseExceptionExample\DatabaseExceptionExample\DatabaseExceptionExample.Android\obj\Debug\90\android\assets\Microsoft.Data.Sqlite.dll

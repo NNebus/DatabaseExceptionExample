@@ -9,7 +9,7 @@
     <StackLayout>
         <!-- Place new controls here -->
         <Label 
-            Text="At this point a new ticket will be created, DB connection will be created and the new Ticket will be saved in the local SQLite-DB." 
+            Text="You will never see this on a real device but on an emulated one!" 
             HorizontalOptions="Center" 
             Margin="5"/>
     </StackLayout>

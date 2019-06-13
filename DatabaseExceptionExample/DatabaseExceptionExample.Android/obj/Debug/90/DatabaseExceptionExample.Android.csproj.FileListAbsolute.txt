@@ -57,7 +57,6 @@ D:\Development\Apps\DatabaseExceptionExample\DatabaseExceptionExample\DatabaseEx
 D:\Development\Apps\DatabaseExceptionExample\DatabaseExceptionExample\DatabaseExceptionExample.Android\bin\Debug\Newtonsoft.Json.dll
 D:\Development\Apps\DatabaseExceptionExample\DatabaseExceptionExample\DatabaseExceptionExample.Android\bin\Debug\System.Buffers.dll
 D:\Development\Apps\DatabaseExceptionExample\DatabaseExceptionExample\DatabaseExceptionExample.Android\bin\Debug\DatabaseExceptionExample.pdb
-D:\Development\Apps\DatabaseExceptionExample\DatabaseExceptionExample\DatabaseExceptionExample.Android\bin\Debug\DatabaseExceptionExample.dll.config
 D:\Development\Apps\DatabaseExceptionExample\DatabaseExceptionExample\DatabaseExceptionExample.Android\bin\Debug\Shared.pdb
 D:\Development\Apps\DatabaseExceptionExample\DatabaseExceptionExample\DatabaseExceptionExample.Android\bin\Debug\Shared.dll.config
 D:\Development\Apps\DatabaseExceptionExample\DatabaseExceptionExample\DatabaseExceptionExample.Android\bin\Debug\Microsoft.EntityFrameworkCore.xml
@@ -630,3 +629,4 @@ D:\Development\Apps\DatabaseExceptionExample\DatabaseExceptionExample\DatabaseEx
 D:\Development\Apps\DatabaseExceptionExample\DatabaseExceptionExample\DatabaseExceptionExample.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 D:\Development\Apps\DatabaseExceptionExample\DatabaseExceptionExample\DatabaseExceptionExample.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 D:\Development\Apps\DatabaseExceptionExample\DatabaseExceptionExample\DatabaseExceptionExample.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+D:\Development\Apps\DatabaseExceptionExample\DatabaseExceptionExample\DatabaseExceptionExample.Android\bin\Debug\App.config
